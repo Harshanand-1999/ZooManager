@@ -1,0 +1,16 @@
+C:\Users\asus\source\repos\WPFZooMan\WPFZooMan\bin\Debug\WPFZooMan.exe.config
+C:\Users\asus\source\repos\WPFZooMan\WPFZooMan\bin\Debug\WPFZooMan.exe
+C:\Users\asus\source\repos\WPFZooMan\WPFZooMan\bin\Debug\WPFZooMan.pdb
+C:\Users\asus\source\repos\WPFZooMan\WPFZooMan\obj\Debug\WPFZooMan.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\WPFZooMan\WPFZooMan\obj\Debug\WPFZooMan.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\source\repos\WPFZooMan\WPFZooMan\obj\Debug\MainWindow.g.cs
+C:\Users\asus\source\repos\WPFZooMan\WPFZooMan\obj\Debug\App.g.cs
+C:\Users\asus\source\repos\WPFZooMan\WPFZooMan\obj\Debug\WPFZooMan_MarkupCompile.cache
+C:\Users\asus\source\repos\WPFZooMan\WPFZooMan\obj\Debug\WPFZooMan_MarkupCompile.lref
+C:\Users\asus\source\repos\WPFZooMan\WPFZooMan\obj\Debug\MainWindow.baml
+C:\Users\asus\source\repos\WPFZooMan\WPFZooMan\obj\Debug\WPFZooMan.g.resources
+C:\Users\asus\source\repos\WPFZooMan\WPFZooMan\obj\Debug\WPFZooMan.Properties.Resources.resources
+C:\Users\asus\source\repos\WPFZooMan\WPFZooMan\obj\Debug\WPFZooMan.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\WPFZooMan\WPFZooMan\obj\Debug\WPFZooMan.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\WPFZooMan\WPFZooMan\obj\Debug\WPFZooMan.exe
+C:\Users\asus\source\repos\WPFZooMan\WPFZooMan\obj\Debug\WPFZooMan.pdb
